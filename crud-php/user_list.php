@@ -21,7 +21,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM users ORDER BY id DESC");
 	<div class="container" style="margin-top:20px;">
 		<div class="jumbotron">
 			<h1 style="align:middle;color:blueviolet">CRUD LAB TEST</h1>
-			<p>The code written by <b style="color:brown;">Tanvir</b> with html, css, boostrap, php and mysql with responsive design</p>
+			<p>The code written by <b style="color:brown;">Shakil</b> with html, css, boostrap, php and mysql with responsive design</p>
 		</div>
 		<table class="table">
 			<thead>
